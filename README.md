@@ -84,4 +84,5 @@ Module 1 Challenge
 
 ## References
 1. [Zyler Official Website](https://zyler.com)  
-2. Articles and industry reports on virtual try-on technology and AI in fashion from trusted sources.
+2. (https://www.anthropics.com)
+3. (https://itmunch.com/award-winning-tech-how-zylers-virtual-try-on-is-revolutionizing-online-shopping)
